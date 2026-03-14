@@ -1,12 +1,3 @@
-🎓 CSE student passionate about application development
-🚀 Currently building a flashcard SaaS app to revolutionize learning
-💻 Striving to become proficient in all aspects of web development
-🎨 Enthusiast for design and creating visually appealing interfaces
-🌱 Constantly expanding my tech stack with cutting-edge tools and frameworks
-💡 Believe in blending functionality with aesthetics in every project
-
-something similiar
-
 # 💫 About Me:
 🔭 I’m currently working on<br><br>* Building scalable full-stack applications using **Next.js, Prisma, and MongoDB**<br>* Developing **AI-powered developer tools**<br>* Improving my **Data Structures & Algorithms** skills (NeetCode 150)<br><br>💼 Experience<br><br>* **Software Engineering Intern — BuildBit**<br>* **Worked at BytesEdge** contributing to real-world production systems<br><br>👯 I’m looking to collaborate on<br><br>* **Open-source developer tools**<br>* **AI + Full-stack SaaS products**<br>* Interesting **Web3 / distributed systems projects**<br><br>🤝 I’m looking for help with<br><br>* **Advanced system design**<br>* **Scalable backend architectures**<br>* **Distributed systems**<br><br>🌱 I’m currently learning<br><br>* **Advanced DSA**<br>* **Blockchain / Web3 development**<br>* **Scalable full-stack architecture**<br><br>💬 Ask me about<br><br>* **React, Next.js, Node.js**<br>* **Prisma, MongoDB, backend APIs**<br>* **Hackathons and rapid MVP building**<br><br>⚡ Fun fact<br><br>* I’ve won multiple hackathons and enjoy turning crazy ideas into working products in 24 hours.<br>
 
@@ -25,5 +16,3 @@ something similiar
 [![](https://visitcount.itsvg.in/api?id=sach2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-edit it here, only 1 liners i need, remove what is not necessary 
